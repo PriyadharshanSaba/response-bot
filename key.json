@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "sparkapi",
+    "private_key_id": "fa11e8c136a705ee289991a491af9ebe837e0f82",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxObvgJZCrcRax\nyfBvTggQ/xjvaqirVtvxWyIN71T1VK3xZRezDO3OvkrNnZ0QDnW5y3GwiqVjq8Xq\nrGXeMA+w28QzKWLx7ZUMdRmABoDh/I0Hiy2Hb2HqMgpxtWarXnKW/4bvShNW+//R\nqbtML5VRycpe3negNX2hXYAPhmQCfF3PlPX/fXXKRm1o1OCNUZsxlH0oXuF9k5lk\nnN+SvAf7vjixqRHWeDLrr7xzXXG7M8U6NQ9JM1Fr/FnHo6xXAWOipKo8EkV3Tk0a\nInaWmEdZ3CGCVK/bRR0uncFL5dU+t175VrJl1JFCCY0mdOq3+bqdjG7HNR0pH1pn\nnTFj50H1AgMBAAECggEAAczZlSqP7z5EuiwaC6lEVU94txVaRQ28zkriO205OqvN\n24K9X/RH/wu7q61SMNPmzC2TlOAdVrEqD4kHU+voZhG8dQRJTSm7JnC7nBFlsKoN\nlGGVGVEQZOrIL1aNpFhBWH/3g2glB6MRousrxGheKnzWx4lMpmkCcxaV9X0I2Ig4\n27yQ0imxS0Cmcz9tv6KrFjrr/yM1MokSVvNOVwrk9bl/968wXE5DaryGh84IGb0Z\nWksiaFcXfkGDyzDnfHlk8L3/vChxZWoLBgkTB2xxiJLaacCiAkUzkYJ4P43jy3zl\nmFYyM/sszjacTcEYrC5glJlECUwMoxprdbZVFATWAQKBgQD7tBfKqoIZGoyTa1NP\nXifjqPHHP7Zq8JLaLU2zQd89pC3IykQCGvdOqtJtbzG/aDU8tQnnyXEuYqvxNJov\neTj834nZSWOd8e7u5ionMtIi460mjBF63GTYRlOzzgpSm7KeJQ0e3zH0+UoEfVIr\nXH1CnFX06ztgSXGKXyAL6W+SAQKBgQD1V9qSMmKLK18a57dlGG/1Q6AxXPhfTi57\nPv9JGLB44v3dKQv3ydU4sy0qjWg+5cx0VlQYM7sSD6J5N2CLt4EV3Vn9DUiwO3hZ\nwaMLedwPxvtMeWaepd7TsVpcsPNGPq6ExkOfjyk+QaN6Vk/YHlmRRdGaD5Na01k+\n+XY7wiKH9QKBgQCpZhRZDpZOZOLVWHcSRHEeNBa8nXGc2VpMQg84JI4lQziZGR/a\nNuHYbPkAM8TMaErkF4eaGqX0rO3BgUB/0Nr8vUleFplXtHq1B+y4wuhQGODwv3YI\nNQod0H8G1RV3cVguPQtuipJpp9kb2mgRzMZ0rRjgo+wrKmKi2NCNk8bGAQKBgQCk\nVAvaEFVg0dQJuVplJFEY/gq2BYd2jm8jrbZfx2GsFp3jHDMf7Ngb+icucTh5qIGh\nCpGZBE0wc7hnaGgKLQcRFgnILLWbFLovpDsI3L5A8w4u0sGhUYhGUmwr2XmYezN5\nSzLQFJuTT3On5Vflca6cVx9lCTmxhA4q1/wRWp62YQKBgF8T1YaFG9HB9I2yx7Fm\n/5mOqJPx7Nd3yUlPzlqNoDW8ElYblqZ8uj4wkNlDax1hnTdjgfelhsmWcDGEVmor\nOVSzysfH7mOAijJ0IzQZa0EATr++tvUscbiGrM6ghaSkVro0TR4dnzZoXIYXd3Du\nThkCraWn7dA0WEnHcRLQeG7D\n-----END PRIVATE KEY-----\n",
+    "client_email": "my-vision-sa2@sparkapi.iam.gserviceaccount.com",
+    "client_id": "103741166796610057620",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision-sa2%40sparkapi.iam.gserviceaccount.com"
+}
